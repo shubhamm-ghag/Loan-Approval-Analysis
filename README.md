@@ -4,7 +4,7 @@
 Loan Approval Analysis = This project is all about the end-to-end data analyst for analyze loan approval trends.
 
 2. ( PURPOSE )
-= This project covers the full data pipeline—from cleaning "dirty" raw data to building an interactive business dashboard.
+ This project covers the full data pipeline—from cleaning "dirty" raw data to building an interactive business dashboard.
 = I analyzed a dataset of loan applications to find insights into approval rates, city-wise trends, and high-value customer segments.
 
 3. ( TECH STACK )
