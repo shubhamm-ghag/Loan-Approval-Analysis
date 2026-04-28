@@ -16,9 +16,9 @@ Loan Approval Analysis = This project is all about the end-to-end data analyst f
 Source = Google. 
 
 5. ( BUSINESS INSIDE )
-= Total Volume: Processed 28 clean loan applications.
-= Financial Averages: The average loan amount is approximately 62,000 with an average credit score of 700.
-= Segment Analysis: Identified key trends in city-wise applications and high-value customer clusters.
+* Total Volume: Processed 28 clean loan applications.
+* Financial Averages: The average loan amount is approximately 62,000 with an average credit score of 700.
+* Segment Analysis: Identified key trends in city-wise applications and high-value customer clusters.
 
 6. ( Snapshot )
 https://github.com/shubhamm-ghag/Loan-Approval-Analysis/blob/main/Screenshot%202026-04-28%20124451.png
